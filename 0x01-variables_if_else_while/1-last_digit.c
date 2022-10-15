@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main - the last digit
+ * main - digit
  *
  * Return: 0
  */
@@ -29,6 +29,5 @@ int main(void)
 		printf("and is less than 6 and not o");
 	}
 	printf(" \n ");
-
 	return (0);
 }
